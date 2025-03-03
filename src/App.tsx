@@ -1,6 +1,7 @@
 // import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+// import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
+import barlonstyleLogo from './assets/barlon-salon-diversion.jpg'
 import './App.css'
 
 function App() {
@@ -9,10 +10,8 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://nebula.wsimg.com/fed577ff604e3d25ba7de500dd941821?AccessKeyId=531592D248B589D87A56&alloworigin=1" target="_blank">
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
+        <a href="https://jamesrgregg.github.io/barlonsalon-spa/" target="_blank">
+          <img src={barlonstyleLogo} className="logo" alt="Barlon Salon logo" />
         </a>
       </div>
       <h1>Barlon Salon</h1>
