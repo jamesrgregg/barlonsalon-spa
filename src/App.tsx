@@ -1,7 +1,8 @@
 // import { useState } from 'react'
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
-import barlonstyleLogo from './assets/barlon-salon-diversion.jpg'
+// import barlonstyleLogo from './assets/barlon-salon-diversion.jpg'
+import barlonLogo from './assets/barlonlogo.png'
 import './App.css'
 
 function App() {
@@ -11,7 +12,7 @@ function App() {
     <>
       <div>
         <a href="https://jamesrgregg.github.io/barlonsalon-spa/" target="_blank">
-          <img src={barlonstyleLogo} className="logo" alt="Barlon Salon logo" />
+          <img src={barlonLogo} className="logo" alt="Barlon Salon - The Salon of Diversion" />
         </a>
       </div>
       <h1>Barlon Salon</h1>
