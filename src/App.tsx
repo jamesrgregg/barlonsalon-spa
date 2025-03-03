@@ -21,7 +21,8 @@ function App() {
           count is {count}
         </button> */}
         <p>
-          Welcome
+          <b>Welcome to Barlon Salon</b>
+          <p>A premium and modern hair salon based in Chandler.</p>
         </p>
         <p>
           Contact
